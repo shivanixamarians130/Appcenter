@@ -12,6 +12,7 @@ namespace TestApplication
             InitializeComponent();
 
             MainPage = new MainPage();
+            //test
         }
 
         protected override void OnStart()

@@ -7494,11 +7494,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shivanim\\Desktop\\TestApplication\\TestApplication\\TestApplication.UWP\\TestApplication.UWP.csproj",
+      "projectUniqueName": "C:\\Projects\\Appcenter\\TestApplication\\TestApplication\\TestApplication.UWP\\TestApplication.UWP.csproj",
       "projectName": "TestApplication.UWP",
-      "projectPath": "C:\\Users\\shivanim\\Desktop\\TestApplication\\TestApplication\\TestApplication.UWP\\TestApplication.UWP.csproj",
+      "projectPath": "C:\\Projects\\Appcenter\\TestApplication\\TestApplication\\TestApplication.UWP\\TestApplication.UWP.csproj",
       "packagesPath": "C:\\Users\\shivanim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shivanim\\Desktop\\TestApplication\\TestApplication\\TestApplication.UWP\\obj\\",
+      "outputPath": "C:\\Projects\\Appcenter\\TestApplication\\TestApplication\\TestApplication.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -7518,8 +7518,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\shivanim\\Desktop\\TestApplication\\TestApplication\\TestApplication\\TestApplication.csproj": {
-              "projectPath": "C:\\Users\\shivanim\\Desktop\\TestApplication\\TestApplication\\TestApplication\\TestApplication.csproj"
+            "C:\\Projects\\Appcenter\\TestApplication\\TestApplication\\TestApplication\\TestApplication.csproj": {
+              "projectPath": "C:\\Projects\\Appcenter\\TestApplication\\TestApplication\\TestApplication\\TestApplication.csproj"
             }
           }
         }

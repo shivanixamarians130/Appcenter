@@ -800,11 +800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shivanim\\Desktop\\TestApplication\\TestApplication\\TestApplication.Android\\TestApplication.Android.csproj",
+      "projectUniqueName": "C:\\Projects\\Appcenter\\TestApplication\\TestApplication\\TestApplication.Android\\TestApplication.Android.csproj",
       "projectName": "TestApplication.Android",
-      "projectPath": "C:\\Users\\shivanim\\Desktop\\TestApplication\\TestApplication\\TestApplication.Android\\TestApplication.Android.csproj",
+      "projectPath": "C:\\Projects\\Appcenter\\TestApplication\\TestApplication\\TestApplication.Android\\TestApplication.Android.csproj",
       "packagesPath": "C:\\Users\\shivanim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shivanim\\Desktop\\TestApplication\\TestApplication\\TestApplication.Android\\obj\\",
+      "outputPath": "C:\\Projects\\Appcenter\\TestApplication\\TestApplication\\TestApplication.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -821,8 +821,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\shivanim\\Desktop\\TestApplication\\TestApplication\\TestApplication\\TestApplication.csproj": {
-              "projectPath": "C:\\Users\\shivanim\\Desktop\\TestApplication\\TestApplication\\TestApplication\\TestApplication.csproj"
+            "C:\\Projects\\Appcenter\\TestApplication\\TestApplication\\TestApplication\\TestApplication.csproj": {
+              "projectPath": "C:\\Projects\\Appcenter\\TestApplication\\TestApplication\\TestApplication\\TestApplication.csproj"
             }
           }
         }
